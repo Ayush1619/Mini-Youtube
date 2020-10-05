@@ -1,3 +1,9 @@
+## You Tube Clone
+### Screenshot
+![mini-youtube-1](https://user-images.githubusercontent.com/51109416/95114607-d57ea100-0761-11eb-9ce7-df5745d29b25.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

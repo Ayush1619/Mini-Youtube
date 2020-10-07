@@ -1,5 +1,5 @@
 ## You Tube Clone
-### Screenshot
+### Screenshots
 ![mini-youtube-1](https://user-images.githubusercontent.com/51109416/95114607-d57ea100-0761-11eb-9ce7-df5745d29b25.png)
 ![youtube-2](https://user-images.githubusercontent.com/51109416/95115022-740b0200-0762-11eb-84f1-734d5409da5b.png)
 
